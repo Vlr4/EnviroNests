@@ -1,0 +1,17 @@
+#RStudio files
+.Rhistory
+RData
+.Ruserdata
+
+.Rproj.user/
+
+*.Rproj.user/
+
+renv/
+
+*.Rcheck/
+
+*.Rout
+*.Rout.save
+
+*~
